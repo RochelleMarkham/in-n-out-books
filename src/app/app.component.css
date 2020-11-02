@@ -1,0 +1,14 @@
+.logo{
+  margin-top: 5px;
+}
+
+.main-container{
+  padding: 20px;
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.mat-card-content{
+  padding: 20px;
+}
